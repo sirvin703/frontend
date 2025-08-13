@@ -11,3 +11,11 @@ DevOps Final Project - frontend
 - `docs/` – project documentation, decisions, and rationale
 - `.github/workflows/` – CI workflow placeholders (Jenkins will be primary)
 
+
+
+## Release 0.1.0
+Prepared release branch off develop to demonstrate release workflow.
+
+## Feature Workflow Demo
+This note was added on 2025-08-12 to demonstrate a feature branch PR into develop.
+
