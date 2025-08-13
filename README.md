@@ -19,3 +19,6 @@ Prepared release branch off develop to demonstrate release workflow.
 ## Feature Workflow Demo
 This note was added on 2025-08-12 to demonstrate a feature branch PR into develop.
 
+
+## Hotfix 0.1.1
+Minor README note to demonstrate hotfix workflow.
