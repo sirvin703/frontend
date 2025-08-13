@@ -1,6 +1,6 @@
 pipeline {
   agent any
-  options { timestamps(); ansiColor('xterm') }
+  options { timestamps() }
   environment {
     IMAGE = 'sirvin703/frontend'
     VERSION = "0.1.${env.BUILD_NUMBER}"
