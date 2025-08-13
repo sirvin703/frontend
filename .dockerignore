@@ -1,0 +1,7 @@
+.git
+.gitignore
+docs
+tests
+scripts
+k8s
+README.md
